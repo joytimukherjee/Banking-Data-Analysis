@@ -59,5 +59,5 @@ The entire workflow is structured to deliver meaningful insights into customer b
 - Install required packages using pip install -r requirements.txt
 
 
-## 📁 Repository Structure
+
 
